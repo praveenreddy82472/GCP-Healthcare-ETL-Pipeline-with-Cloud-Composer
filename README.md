@@ -14,6 +14,8 @@ This project automates the end-to-end processing of healthcare records stored in
 - ⏰ Cloud Composer → Orchestrated with Airflow DAG
 
 ---
+# Architecture
+![Airflow Composer](https://github.com/praveenreddy82472/tutorial_test/blob/main/Architecure.jpg)
 
 ## ⚙️ Technologies Used
 
@@ -27,7 +29,7 @@ This project automates the end-to-end processing of healthcare records stored in
 
 ---
 
-![DataFlow Architecture](https://github.com/praveenreddy82472/tutorial_test/blob/main/dataflow.jpg)
+![DataFlow](https://github.com/praveenreddy82472/tutorial_test/blob/main/dataflow.jpg)
 
 ![Airflow Composer](https://github.com/praveenreddy82472/tutorial_test/blob/main/airflow.jpg)
 
